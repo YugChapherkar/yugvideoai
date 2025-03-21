@@ -63,8 +63,8 @@ interface SidebarProps {
 const Sidebar = ({ activePath = "/dashboard" }: SidebarProps) => {
   // Mock user data
   const user = {
-    name: "John Doe",
-    email: "john@example.com",
+    name: "Yug Chapherkar",
+    email: "yug@yugphx.site",
     avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=john",
   };
 

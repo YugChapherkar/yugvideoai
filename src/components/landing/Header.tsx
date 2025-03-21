@@ -11,7 +11,7 @@ interface HeaderProps {
 }
 
 const Header = ({
-  logo = "VideoAI",
+  logo = "VideoResizer",
   navLinks = [
     { label: "Home", href: "/" },
     { label: "Features", href: "#features" },
