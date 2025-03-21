@@ -18,7 +18,7 @@ interface DashboardHeaderProps {
 }
 
 const DashboardHeader = ({
-  username = "John Doe",
+  username = "Yug Chapherkar",
   avatarUrl = "https://api.dicebear.com/7.x/avataaars/svg?seed=John",
   notificationCount = 3,
 }: DashboardHeaderProps) => {
